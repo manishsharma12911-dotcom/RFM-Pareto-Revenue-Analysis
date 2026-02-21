@@ -94,6 +94,13 @@ Manish Sharma
 
 🔗 LinkedIn: https://www.linkedin.com/in/manish-sharma-665923213
 
+<p align="center"> 
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/03a54ff7-5779-4aaf-a186-e82b3190cd2f" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/be77ee38-085a-44b5-8710-0ed868c9558f" />
+<img width="32%" height="402" alt="image" src="https://github.com/user-attachments/assets/8b99c3b2-64f7-483a-a412-13747cfb5125" />
+</p>
+
+
 
 
 
